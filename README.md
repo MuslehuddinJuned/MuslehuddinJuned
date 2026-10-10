@@ -127,6 +127,7 @@ For the past several years, I've been responsible for **ERP strategy, Odoo imple
 
 ## 📜 Certifications
 
+- **Odoo 19 Functional Certification** — Certification: n°0001235417
 - **Zend Certified PHP Engineer** — ZEND032118
 - **HackerRank SQL (Advanced)** — Certified
 - **HackerRank 5★** — Problem Solving · SQL · JavaScript
