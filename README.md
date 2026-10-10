@@ -1,7 +1,7 @@
 <h1 align="center">A J M Musleh Uddin Juned</h1>
 
 <p align="center">
-  <b>Odoo Developer · ERP Solution Architect · Business Systems Consultant</b>
+  <b>Odoo Developer · ERP Solution Architect · Odoo Certified Functional Expert</b>
 </p>
 
 <p align="center">
