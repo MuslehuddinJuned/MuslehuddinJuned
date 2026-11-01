@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.odoo.com/apps/modules/browse?author=Muslehuddin%20Juned">
-    <img src="https://img.shields.io/badge/Odoo_Apps_Store-3_Published_Modules-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo Apps Store">
+  <a href="https://apps.odoo.com/apps/modules/browse?author=Musleh%20Uddin%20Juned">
+    <img src="https://img.shields.io/badge/Odoo_Apps_Store-6_Published_Modules-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo Apps Store">
   </a>
   <a href="https://www.linkedin.com/in/muslehuddinjuned/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,7 +18,7 @@
   <a href="mailto:juned.ipe@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://zachai-bachhai.com">
+  <a href="https://muslehuddin-juned.odoo.com">
     <img src="https://img.shields.io/badge/Portfolio-24292E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -58,9 +58,12 @@ For the past several years, I've been responsible for **ERP strategy, Odoo imple
 
 | Module | Description | Odoo |
 |---|---|---|
-| **[Inventory Report](https://apps.odoo.com/apps/modules/19.0/mj_inventory_report)** · [`source`](https://github.com/MuslehuddinJuned/mj_inventory_report) | Structured inventory and stock reporting | 19.0 |
-| **[Performance Appraisal](https://apps.odoo.com/apps/modules/19.0/mj_appraisal)** · [`source`](https://github.com/MuslehuddinJuned/mj_appraisal) | Configurable employee appraisal and performance scoring | 19.0 |
-| **[Meal Management](https://apps.odoo.com/apps/modules/19.0/hr_meal)** · [`source`](https://github.com/MuslehuddinJuned/hr_meal) | Employee meal and canteen management with expense tracking | 19.0 |
+| **[Inventory Report](https://apps.odoo.com/apps/modules/20.0/mj_inventory_report)** · [`source`](https://apps.odoo.com/apps/modules/20.0/mj_inventory_report) | Structured inventory and stock reporting | 18.0, 19.0, 20.0 |
+| **[Performance Appraisal](https://apps.odoo.com/apps/modules/20.0/mj_appraisal)** · [`source`](https://apps.odoo.com/apps/modules/20.0/mj_appraisal) | Configurable employee appraisal and performance scoring | 18.0, 19.0, 20.0 |
+| **[Meal Management](https://apps.odoo.com/apps/modules/20.0/hr_meal)** · [`source`](https://apps.odoo.com/apps/modules/20.0/hr_meal) | Employee meal and canteen management with expense tracking | 18.0, 19.0, 20.0 |
+| **[IT Asset Management](https://apps.odoo.com/apps/modules/20.0/mj_it_asset)** · [`source`](https://apps.odoo.com/apps/modules/20.0/mj_it_asset) | Track IT assets by serial number, assign them to employees with full history and link them to Purchase | 17.0, 18.0, 19.0, 20.0 |
+| **[Report PDF Preview](https://apps.odoo.com/apps/modules/20.0/mj_report_preview)** · [`source`](https://apps.odoo.com/apps/modules/20.0/mj_report_preview) | This module shows every PDF report in a full screen preview dialog before it is saved | 18.0, 19.0, 20.0 |
+| **[Meeting](https://apps.odoo.com/apps/modules/20.0/mj_meeting)** · [`source`](https://apps.odoo.com/apps/modules/20.0/mj_meeting) | This module records the agenda and the minutes of every meeting | 18.0, 19.0, 20.0 |
 
 ---
 
@@ -151,7 +154,7 @@ For the past several years, I've been responsible for **ERP strategy, Odoo imple
   ·
   💼 <a href="https://www.linkedin.com/in/muslehuddinjuned/">LinkedIn</a>
   ·
-  🌐 <a href="https://zachai-bachhai.com">Portfolio</a>
+  🌐 <a href="https://muslehuddin-juned.odoo.com/">Portfolio</a>
   ·
   📍 Dhaka, Bangladesh · Open to Remote
 </p>
